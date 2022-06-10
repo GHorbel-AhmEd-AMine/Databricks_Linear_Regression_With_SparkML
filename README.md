@@ -12,13 +12,22 @@ Implement a Linear Regression Model With Databricks (SparkML) and save the model
 MOT CLEFS : 
 
 ° Databricks
+
 ° Apache Spark
+
 ° Spark MLlib 
+
 ° Spark ML
+
 ° Pipelines
+
 ° Linear Regression
+
 ° Data Processing
+
 ° Model Evaluation
+
 ° AWS S3 bucket
+
 ° Synthetic Dataset
 
