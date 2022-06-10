@@ -2,6 +2,17 @@
 Implement a Linear Regression Model With Databricks (SparkML) and save the model in AWS S3 bucket
 
 
+**Apache Spark dispose d’une bibliothèque pour différents types de modèles d’apprentissage automatique.**
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--**Quelle est la différence entre Spark MLlib et Spark ML ?**--
+
+spark.mllib : L’API d’apprentissage automatique héritée est-elle basée sur des RDD ? est la nouvelle API d’apprentissage automatique basée sur le dataframe.spark.ml
+
+Le nom MLlib inclut à la fois l’API RDD et l’API basée sur dataframe. L’API basée sur RDD est maintenant en mode maintenance, il n’y aura donc pas de nouvelles fonctionnalités ajoutées à l’API basée sur RDD.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1) Comment traiter les données ?
 2) Comment adapter un modèle de régression linéaire Spark ML ?
 3) Comment évaluer les performances du modèle développé ?
@@ -9,7 +20,7 @@ Implement a Linear Regression Model With Databricks (SparkML) and save the model
 6) Comment faire des prédictions pour de nouvelles données ?
 
 
-MOT CLEFS : 
+## MOT CLEFS : 
 
 ° Databricks
 
